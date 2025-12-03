@@ -1,0 +1,7 @@
+Game_name:中文奇遇;
+Game_key:3996d01622d7286;
+Title_img:首图.jpg;
+Title_bgm:开场音乐.mp3;
+Textbox_theme:imss;
+Game_Logo:;
+Description:云游城市，学习中文;
