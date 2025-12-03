@@ -1,0 +1,3 @@
+
+changeBg:首页2.jpg -next;
+choose:豫园和城隍庙 Yuyuan Garden & Chenghuang Temple:旅行篇/豫园和城隍庙.txt|东方明珠塔 Oriental Pearl Tower:旅行篇/东方明珠.txt|新天地和法租界 Xintiandi and the Former French Concession:旅行篇/新天地和法租界.txt;

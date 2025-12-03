@@ -1,0 +1,11 @@
+changeBg:首页2.jpg;
+:迈克想感受上海不一样的风情。|Mike wants to feel another side of Shanghai. ;
+:迈克开启了一场citywalk|Mike begins a citywalk;
+:他请一位看起来像摄影师的年轻人帮他在一栋历史建筑前拍照。|He asked a young man who looked like a photographer to take a picture for him in front of a historic building.;
+playEffect:happy.mp3 -volume=20;
+playVideo:法租界.mp4;
+playEffect:none;
+bgm:none;
+intro:拍完后，对两人开始闲聊。|Afterward, they start chatting. -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+:;
+choose:用简单中文介绍自己  Introduce himself in Chinese:旅行篇/新-用简单中文介绍自己.txt| 请教几个关于周围建筑的中文名字  ask about building names in Chinese :旅行篇/新-请教几个关于周围建筑的中文名字.txt;

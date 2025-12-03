@@ -1,0 +1,7 @@
+
+playVideo:豫园 迈克拿地图.mp4;
+intro:迈克通过地图，找到了“入口” （rù kǒu）的位置，顺利前往豫园入口。|Mike found the location of the 'entrance' using the map, successfully made his way to the entrance of Yu Garden. -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+changeBg:豫园商城.jpg -next;
+ :在城隍庙小商品市场，迈克看中了一个漂亮的茶杯。|At the Chenghuang Temple market, Mike saw a beautiful teacup.;
+ :店主说，180元。迈克觉得有点贵。|At the Chenghuang Temple market, Mike saw a beautiful teacup.;
+choose:尝试讨价还价 Try to bargain:选择场景文件|直接购买 	Buy directly:选择场景文件;
