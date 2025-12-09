@@ -1,0 +1,9 @@
+
+changeBg:豫园商城.jpg;
+迈克 Mike:太贵了！可以便宜点吗？80元怎么样？|Too expensive! Can it be cheaper? How about 80 yuan? -豫4.mp3;
+店主 Shopkeeper:不行不行，成本都不够。150元最低价。|No, no, that’s below cost. 150 yuan, lowest. -豫5.mp3;
+迈克 Mike:100元吧，我诚心买。|100 yuan, I’m really want to buy it. -豫6.mp3;
+changeBg:豫园商城交易图.jpg -next;
+ :最终双方以120元成交。|Finally, they agreed on 120 yuan.;
+intro:迈克学到了有用的中文：|太贵了 (tài guì le)       too expensive|便宜点(pián yi diǎn)    cheaper|诚心(chéngxīn)        sincere - cheaper=true - too expensive|=true - too expensive=true -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+end;

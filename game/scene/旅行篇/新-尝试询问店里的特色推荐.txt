@@ -1,0 +1,12 @@
+
+changeBg:新-咖啡厅.png -next;
+changeFigure:迈克3-4.png -right -next;
+迈克 Mike:请问，你们这里有什么特色的咖啡？|Excuse me, what special coffee do you recommend? -新7.mp3;
+changeFigure:选择立绘文件 -right -next;
+changeFigure:新-咖啡厅服务员.png -left -next;
+服务员  Waitress:我们的‘海盐焦糖拿铁’很受欢迎。|Our sea-salt caramel latte is very popular. -新8.mp3;
+changeFigure:选择立绘文件 -left -next;
+changeFigure:迈克3-4.png -right;
+迈克 Mike:好的，就要这个。|Okay, I’ll have that. -新9.mp3;
+intro:他学到了有用的中文：|特色 (tè  sè)    speciality|拿铁 (ná tiě)    latte|很受欢迎(hěn shòu huān yíng)    very popular -   latte|=true -   latte=true -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+end;

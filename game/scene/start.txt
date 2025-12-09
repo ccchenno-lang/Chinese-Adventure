@@ -1,0 +1,5 @@
+; 初始场景，以及特效演示
+bgm:开场音乐.mp3;
+intro:迈克即将开启他在中国的行程，请你为他选择：|Mike is about to start his trip in China. Please choose for him: -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+changeBg:首页2.jpg -next;
+choose:豫园和城隍庙 Yuyuan Garden & Chenghuang Temple:旅行篇/豫园和城隍庙.txt|东方明珠塔 Oriental Pearl Tower:旅行篇/东方明珠.txt|新天地和法租界 Xintiandi and the Former French Concession:旅行篇/新天地和法租界.txt;

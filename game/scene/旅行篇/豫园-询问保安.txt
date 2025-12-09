@@ -1,0 +1,14 @@
+
+changeBg:豫园街景.jpg -next;
+changeFigure:迈克3-4.png -right -next;
+迈克   Mike:你好，请问豫园的入口在哪里？|Excuse me, where is the entrance to Yuyuan? -豫1.mp3 -right;
+changeFigure:豫园保安.png -right -next;
+保安    Security guard:前面路口左转。|Turn left at the next intersection. -豫2.mp3;
+changeFigure:迈克3-4.png -right -next;
+迈克 Mike:谢谢！|Thank you! -豫3.mp3;
+changeFigure:选择立绘文件 -right -next;
+intro:迈克学到了有用的中文Mike learned useful Chinese:|入口 rù kǒu —— entrance|在哪里 zài nǎ lǐ —— where|路口 lù kǒu —— crossing|左转 zuǒ zhuǎn —— turn left -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+changeBg:豫园商城.jpg -next;
+:在城隍庙小商品市场，迈克看中了一个漂亮的茶杯。|At the Chenghuang Temple market, Mike saw a beautiful teacup.;
+:店主说，180元。迈克觉得有点贵。|At the Chenghuang Temple market, Mike saw a beautiful teacup. -notend;
+choose:尝试讨价还价 Try to bargain:旅行篇/豫园-尝试讨价还价.txt|直接购买 	Buy directly:旅行篇/豫园-直接购买.txt;

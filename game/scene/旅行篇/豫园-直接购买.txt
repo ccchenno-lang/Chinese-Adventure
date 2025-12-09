@@ -1,0 +1,9 @@
+
+changeBg:豫园商城.jpg -next;
+迈克 Mike:好的，那我要这个，请帮我包装起来。|Okay, I’ll take it. Please wrap it up. -豫7.mp3;
+店主 Shopkeeper:好的，请稍等一下。|Sure, please wait a moment. -豫8.mp3;
+:对话过来一会儿，店家将包装好的茶杯递给迈克。|After a while, the shopkeeper handed him the packaged teacup.;
+店主 Shopkeeper:欢迎下次光临！|Please come again! -豫园10.mp3;
+playVideo:豫园商城迈克老板交易.mp4;
+intro:迈克学到了有用的中文：|包装（bāo zhuāng）  packaging|稍等（shāo děng） wait a minute|欢迎下次光临（huān yíng xià cì guāng lín） Please step in again -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+end;

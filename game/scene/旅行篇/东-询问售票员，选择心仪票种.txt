@@ -1,0 +1,20 @@
+
+changeBg:东-售票处2.jpg -next;
+迈克 Mike:请问这个票，包含哪几层？|Excuse me, what floors does this ticket include? -东1.mp3;
+changeBg:东-售票处3.jpg -next;
+售票员 Ticket seller:包含主观光层和二层的陈列馆。|It includes the main observation deck and the second-floor exhibition hall. -东2.mp3;
+changeBg:东-售票处4.jpg -next;
+迈克 Mike:好的，就要这个，一张。|Okay, I’ll take one. -东3.mp3;
+intro:迈克学到了有用的中文Mike learned useful Chinese：|层 (céng)     floor|包含 (bāohán)     include|主观光层（zhǔ guān guāng céng）   subjective light layer|陈列馆（chén liè guǎn）    exhibition hall  - include|=true - include=true - floor |=true -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+changeBg:东-主观光层.jpg -next;
+:在主观光层，视野极佳。|At the main deck, the view was amazing. ;
+:迈克想请一位中国游客帮自己拍张照片。|Mike wanted someone to take a photo for him.;
+changeBg:东-主观光层2.jpg;
+:迈克问旁边的游客|Mike asked a nearby tourist.;
+迈克 Mike:你好，请问可以帮我拍一张照片吗？|Excuse me, could you take a photo for me? -东4.mp3;
+游客 Tourist:可以。|Sure. -东5.mp3;
+changeBg:东-主观光层3.jpg;
+changeBg:东-主观光层4.jpg -next;
+:拍完后，迈克说：“非常感谢！”|Afterward, Mike said: “Thank you very much!” -东6.mp3;
+intro:迈克学到了有用的中文Mike learned useful Chinese:|拍照 (pāi zhào)      take a photo|可以...吗？(kě yǐ... ma?)       Can you...?|非常感谢（fēi cháng gǎn xiè）   Thank you very much -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+end;

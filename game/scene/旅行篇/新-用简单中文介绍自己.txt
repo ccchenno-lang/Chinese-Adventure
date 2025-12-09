@@ -1,0 +1,15 @@
+
+changeBg:新-拍照1.jpg;
+迈克  Mike:谢谢！我叫迈克，来自美国。你是上海人吗？|Thank you! My name is Mike, I’m from the U.S. Are you from Shanghai? -新0.mp3;
+changeBg:新-拍照2.png -next;
+摄影师 photographer:不，我是北京人，在这里工作。|No, I’m from Beijing, I work here. -新0.1.mp3;
+迈克  Mike:很高兴认识你，你拍的真好！|Nice to meet you, you take great photos! -新0.2.mp3;
+摄影师 photographer:谢谢，欢迎你来中国！|Thanks! Welcome to China! -新0.3.mp3;
+intro:迈克学到了有用的中文：|我叫... (wǒ jiào...)    My name is...|从...来 (cóng... lái)   I come from...|上海人 (Shànghǎi rén)   Shanghai local|很高兴认识你（hěn gāo xìng rèn shi nǐ）  Nice to meet you|欢迎（huān yíng）  welcome -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+playEffect:jazz.mp3;
+playVideo:新天地-咖啡厅.webm -skipOff;
+intro:过了一会儿他来到新天地，这里有很多漂亮的石库门建筑和精致的餐厅咖啡馆。| Later, Mike arrives in Xintiandi, surrounded by beautiful Shikumen architecture, restaurants, and coffee shop. -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+intro:逛了一会儿迈克有点累了，他走进一家咖啡馆。服务员递上菜单，上面有很多特调咖啡的名字。| Feeling tired, he enters a coffee shop. The waiter hands him a menu full of creative drinks. -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+:;
+playEffect:none;
+choose:点一杯熟悉的拿铁  	Order a familiar latte :旅行篇/新-点一杯熟悉的拿铁咖啡.txt|尝试询问店里的特色推荐  Ask for a recommendation:旅行篇/新-尝试询问店里的特色推荐.txt;

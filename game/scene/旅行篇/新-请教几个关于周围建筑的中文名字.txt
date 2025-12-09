@@ -1,0 +1,13 @@
+
+changeBg:新-交谈1.png -next;
+:用英语交流后，迈克指着旁边的建筑问|After chatting in English, Mike points to a nearby building;
+迈克 Mike:请问这个房子的中文名字是什么？|Excuse me, what’s this building’s name in Chinese? -新1.mp3;
+changeBg:新-拍照2.png;
+摄影师 photographer:这叫“武康大楼”。 -新2.mp3;
+迈克 Mike:武康大楼。很漂亮！|Wukang Building. Very beautiful! -新2.1.mp3;
+intro:迈克学到了有用的中文：|房子（fáng zi）  house |名字（míng zi） name|武康大楼（Wǔ kāng Dà lóu） Wukang Building -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+playEffect:jazz.mp3 -volume=20;
+playVideo:新天地-咖啡厅.webm;
+intro:过了一会儿他来到新天地，这里有很多漂亮的石库门建筑和精致的餐厅咖啡馆。| Later, Mike arrives in Xintiandi, surrounded by beautiful Shikumen architecture, restaurants, and coffee shop.  -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+intro:逛了一会儿迈克有点累了，他走进一家咖啡馆。服务员递上菜单，上面有很多特调咖啡的名字。|Feeling tired, he enters a coffee shop. The waiter hands him a menu full of creative drinks. -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+choose:点一杯熟悉的拿铁  	Order a familiar latte :旅行篇/新-点一杯熟悉的拿铁咖啡.txt|尝试询问店里的特色推荐  Ask for a recommendation:旅行篇/新-尝试询问店里的特色推荐.txt;

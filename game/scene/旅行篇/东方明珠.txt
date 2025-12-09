@@ -1,0 +1,23 @@
+
+bgm:选择背景音乐;
+intro:迈克乘坐地铁到陆家嘴站，一出站就看到了东方明珠塔。| Mike took the metro to Lujiazui Station and saw the Oriental Pearl Tower right after exiting. -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+playEffect:地铁运行.mp3;
+playVideo:地铁到达东方明珠.mp4;
+playEffect:选择效果音文件;
+changeBg:东-售票处.jpg;
+:售票处有很多种票|At the ticket office, there were several types of tickets;
+:对应不同的观光层|for different observation decks.;
+:包含主观光层、全透明观光廊、太空舱等……|main observation deck, transparent walkway, space capsule, etc.;
+:迈克看不懂区别。|Mike couldn’t understand the difference.;
+choose:询问售票员，选择心仪票种    Ask the ticket seller:旅行篇/东-询问售票员，选择心仪票种.txt|直接买最贵的票    Buy the most expensive ticket :选择场景文件;
+changeBg:东-主观光层.jpg;
+:在主观光层，视野极佳。|At the main deck, the view was amazing. ;
+:迈克想请一位中国游客帮自己拍张照片。|Mike wanted someone to take a photo for him.;
+changeBg:东-主观光层2.jpg;
+:迈克问旁边的游客|Mike asked a nearby tourist.;
+迈克 Mike:你好，请问可以帮我拍一张照片吗？|Excuse me, could you take a photo for me? -东4.mp3;
+游客 Tourist:可以。|Sure.;
+changeBg:东-主观光层3.jpg;
+:拍完后，迈克说：“非常感谢！”|Afterward, Mike said: “Thank you very much!”;
+intro:迈克学到了有用的中文Mike learned useful Chinese:|拍照 (pāi zhào)      take a photo|可以...吗？(kě yǐ... ma?)       Can you...?|非常感谢（fēi cháng gǎn xiè）   Thank you very much -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+end;

@@ -1,0 +1,14 @@
+
+bgm:选择背景音乐;
+playEffect:地铁到站声.mp3;
+playVideo:迈克出豫园地铁.mp4;
+intro:迈克决定先去感受老上海的风情。他坐地铁来到了豫园。|Mike decides to experience the charm of old Shanghai first. He takes the subway to Yuyuan Garden. -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+playEffect:人流走动声.mp3 -volume=20;
+playVideo:豫园街景行人走动.mp4;
+changeBg:豫园街景.jpg -next;
+:迈克找不到豫园的入口，只看到很多商店。|Mike couldn’t find the entrance. He only saw many shops.;
+choose:询问保安 Ask a security guard :旅行篇/豫园-询问保安.txt|查看旅游地图指示牌 Check a tourist map:旅行篇/豫园-查看旅游地图指示牌.txt;
+changeBg:豫园商城.jpg;
+ :在城隍庙小商品市场，迈克看中了一个漂亮的茶杯。|At the Chenghuang Temple market, Mike saw a beautiful teacup.;
+ :店主说，180元。迈克觉得有点贵。|At the Chenghuang Temple market, Mike saw a beautiful teacup.;
+choose:尝试讨价还价 Try to bargain:选择场景文件|直接购买 	Buy directly:选择场景文件;
